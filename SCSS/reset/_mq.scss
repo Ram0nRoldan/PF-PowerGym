@@ -1,0 +1,55 @@
+@media (max-width: 768px) {
+  .grid-container {
+      grid-template-columns: 1fr;
+      grid-template-rows: auto;
+      grid-template-areas: "encab" "main" "pie";
+  }
+  .block__encab {
+    justify-content: center;
+  }
+  .tis {
+    max-width: 100%;
+    height: auto; 
+  }
+  .filoso {
+    max-width: 100%;
+    height: auto;
+  }
+  .car {
+    max-width: 100%;
+    height: auto;
+  }
+  .men {
+    max-width: 100%;
+    height: auto;
+  }
+  .mb-3,
+  .sidebar__form,
+  .sidebar__item {
+    max-width: 100%;
+    height: auto;
+  }
+  .vide iframe {
+    max-width: 100%;
+    height: auto;
+  }
+  .log {
+    max-width: 100%;
+    height: auto;
+  }
+  .nave {
+    font-size: small;
+    justify-content: center;
+    position: static;
+  }
+
+  .header__nav
+  {
+    font-size: small;
+    justify-content: center;
+    position: static;
+  }
+
+}
+
+
