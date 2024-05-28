@@ -38,17 +38,25 @@
     height: auto;
   }
   .nave {
-    font-size: small;
+    font-size: medium;
     justify-content: center;
     position: static;
   }
 
   .header__nav
   {
+    font-size: medium;
+    justify-content: center;
+    position: static;
+  }
+
+  h1, h2, h3
+  {
     font-size: small;
     justify-content: center;
     position: static;
   }
+
 
 }
 
