@@ -117,7 +117,7 @@ body {
 
 .pie {
   text-align: center;
-  background-color: #E0A26B;
+  background-color: #5894d9;
   padding: 50px;
   grid-area: footer;
 }
@@ -132,7 +132,7 @@ body {
 
 .footer {
   text-align: center;
-  background-color: #E0A26B;
+  background-color: #5894d9;
   padding: 5vw;
   grid-area: footer;
 }
@@ -305,7 +305,7 @@ h1 {
 .pie {
   grid-area: pie;
   text-align: center;
-  background-color: #E0A26B;
+  background-color: #5894d9;
   padding: 50px;
   grid-area: footer;
 }
