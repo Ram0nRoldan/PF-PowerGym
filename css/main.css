@@ -130,6 +130,12 @@ body {
   text-align: center;
 }
 
+.instalacion {
+  font-size: larger;
+  background-color: #bdd9f2;
+  text-align: center;
+}
+
 .footer {
   text-align: center;
   background-color: #E0A26B;
