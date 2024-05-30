@@ -135,6 +135,29 @@ body {
   text-align: center;
 }
 
+.aprivacidad {
+  background-color: gray;
+  width: 100%;
+  padding: 50px;
+  box-sizing: border-box;
+  text-align: center;
+}
+
+.aprivacidad h1 {
+  font-size: 60px;
+  margin-top: 50px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.aprivacidad p {
+  font-size: larger;
+  margin-top: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 80%;
+}
+
 .footer {
   text-align: center;
   background-color: #E0A26B;
@@ -260,13 +283,6 @@ h1 {
   margin-top: 70px;
   margin-left: 10px;
   margin-right: 700px;
-}
-
-.aprivacidad {
-  background-color: gray;
-  width: 100%;
-  padding: 50px;
-  box-sizing: border-box;
 }
 
 .logi img {

@@ -1,2 +1,4 @@
 # Proyecto de Desarrollo Web Ramón Roldan
-## Ejemplo de readme para mi 3ra entrega corregida
+## Ejemplo de readme para entrega final:
+
+De acuerdo a consigna se comenta:
