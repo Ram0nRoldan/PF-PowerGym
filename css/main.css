@@ -335,7 +335,7 @@ h1 {
   display: flex;
   flex-wrap: wrap;
   justify-content: flex-end;
-  font-size: larger;
+  font-size: large;
   position: absolute;
   right: 120px;
   top: 20px;
