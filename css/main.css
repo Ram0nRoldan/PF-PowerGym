@@ -393,7 +393,7 @@ h1 {
     justify-content: center;
     position: static;
   }
-  .aprivacidad {
+  .aprivacidad, .aprivacidad h1, .aprivacidad p {
     font-size: medium;
     justify-content: center;
     position: static;
