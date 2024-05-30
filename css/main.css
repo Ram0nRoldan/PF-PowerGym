@@ -393,6 +393,11 @@ h1 {
     justify-content: center;
     position: static;
   }
+  .aprivacidad {
+    font-size: medium;
+    justify-content: center;
+    position: static;
+  }
   .header__nav {
     font-size: large;
     justify-content: center;
