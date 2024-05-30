@@ -23,7 +23,7 @@
 .logoinicial,
 .header__logo {
   display: block;
-  margin-top: 50px;
+  margin-top: 80px;
   margin-left: auto;
   margin-right: auto;
   margin-bottom: map-get($titulo, $key: rigt);
@@ -43,7 +43,7 @@
 
 .logop img{
   display: block;
-  margin-top: 50px;
+  margin-top: 80px;
   margin-left: auto;
   margin-right: auto;
   margin-bottom: map-get($titulo, $key: rigt);
@@ -194,7 +194,7 @@ h1 {
   display: flex;
   flex-wrap: wrap;
   justify-content: flex-end;
-  font-size: larger;
+  font-size: x-large;
   position: absolute;
   right: 120px; 
   top: 20px; 
