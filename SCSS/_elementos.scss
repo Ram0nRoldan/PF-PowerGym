@@ -1,5 +1,24 @@
 
-.element__index1
+.element__tis
+{
+  font-size: larger;
+  padding: 90px;
+  text-align: center;
+  background-color: $cinstall;
+  display: flex;
+  flex-direction: column;
+}
+
+.element__filoso
+  {
+    font-size: larger;
+    padding: 90px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .element__index1
  {
   font-size: larger;
   background-color: $cindex;
@@ -26,24 +45,6 @@
   flex-direction: column;
 }
 
-.element__tis
-{
-  font-size: larger;
-  padding: 90px;
-  text-align: center;
-  background-color: $cinstall;
-  display: flex;
-  flex-direction: column;
-}
-
-.element__filoso
-  {
-    font-size: larger;
-    padding: 90px;
-    text-align: center;
-    display: flex;
-    flex-direction: column;
-  }
 
 
 .element__contacto1
@@ -137,7 +138,7 @@
 .aprivacidad {
   background-color: gray;
   width: 100%;
-  padding: 50px;
+  padding: 30px;
   box-sizing: border-box;
   text-align: center; }
 

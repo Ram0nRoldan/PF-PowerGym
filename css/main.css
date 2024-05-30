@@ -8,6 +8,23 @@ body {
   background-color: #bdd9f2;
 }
 
+.element__tis {
+  font-size: larger;
+  padding: 90px;
+  text-align: center;
+  background-color: #A8E06B;
+  display: flex;
+  flex-direction: column;
+}
+
+.element__filoso {
+  font-size: larger;
+  padding: 90px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+}
+
 .element__index1 {
   font-size: larger;
   background-color: #D7E06B;
@@ -28,23 +45,6 @@ body {
   font-size: larger;
   background-color: #A8E06B;
   padding: 50px;
-  text-align: center;
-  display: flex;
-  flex-direction: column;
-}
-
-.element__tis {
-  font-size: larger;
-  padding: 90px;
-  text-align: center;
-  background-color: #A8E06B;
-  display: flex;
-  flex-direction: column;
-}
-
-.element__filoso {
-  font-size: larger;
-  padding: 90px;
   text-align: center;
   display: flex;
   flex-direction: column;
@@ -139,7 +139,7 @@ body {
 .aprivacidad {
   background-color: gray;
   width: 100%;
-  padding: 50px;
+  padding: 10px;
   box-sizing: border-box;
   text-align: center;
 }
