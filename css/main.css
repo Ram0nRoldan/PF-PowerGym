@@ -28,14 +28,16 @@ body {
 .element__index1 {
   font-size: larger;
   background-color: #D7E06B;
-  padding: 50px;
+  padding-top: 20px;
+  padding-bottom: 50px;
   text-align: center;
 }
 
 .element__instal {
   font-size: larger;
   background-color: #A8E06B;
-  padding: 50px;
+  padding-top: 20px;
+  padding-bottom: 50px;
   text-align: center;
   display: flex;
   flex-direction: column;
@@ -44,7 +46,8 @@ body {
 .element__hist {
   font-size: larger;
   background-color: #A8E06B;
-  padding: 50px;
+  padding-top: 20px;
+  padding-bottom: 50px;
   text-align: center;
   display: flex;
   flex-direction: column;
@@ -53,21 +56,24 @@ body {
 .element__contacto1 {
   font-size: larger;
   background-color: #D7E06B;
-  padding: 50px;
+  padding-top: 20px;
+  padding-bottom: 50px;
   text-align: center;
 }
 
 .index1 {
   font-size: larger;
   background-color: #D7E06B;
-  padding: 50px;
+  padding-top: 20px;
+  padding-bottom: 50px;
   text-align: center;
 }
 
 .dex {
   font-size: larger;
   background-color: #378c8c;
-  padding: 50px;
+  padding-top: 20px;
+  padding-bottom: 50px;
   text-align: center;
   display: flex;
   flex-direction: column;
@@ -76,7 +82,8 @@ body {
 .instal {
   font-size: larger;
   background-color: #A8E06B;
-  padding: 50px;
+  padding-top: 20px;
+  padding-bottom: 50px;
   text-align: center;
   display: flex;
   flex-direction: column;
@@ -85,7 +92,8 @@ body {
 .hist {
   font-size: larger;
   background-color: #A8E06B;
-  padding: 50px;
+  padding-top: 20px;
+  padding-bottom: 50px;
   text-align: center;
   display: flex;
   flex-direction: column;
@@ -111,7 +119,8 @@ body {
 .contacto1 {
   font-size: larger;
   background-color: #D7E06B;
-  padding: 50px;
+  padding-top: 20px;
+  padding-bottom: 50px;
   text-align: center;
 }
 
@@ -133,13 +142,15 @@ body {
 .instalacion {
   background-color: #378c8c;
   text-align: center;
-  padding: 20px;
+  padding-top: 20px;
+  padding-bottom: 50px;
 }
 
 .aprivacidad {
   background-color: gray;
   width: 100%;
-  padding: 10px;
+  padding-top: 20px;
+  padding-bottom: 50px;
   box-sizing: border-box;
   text-align: center;
 }
